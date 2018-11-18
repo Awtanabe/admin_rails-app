@@ -1,27 +1,24 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+機能の仕様
 
-* Ruby version
+モデル毎のデータを集計
+ソートできる
+　フィルターかけられる
+csvファイいるでexport importできる
 
-* System dependencies
 
-* Configuration
+利用したモノ
 
-* Database creation
+devise
+scafold
+cancan
 
-* Database initialization
 
-* How to run the test suite
+参考記事
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://blog.hrendoh.com/how-to-use-rails-admin/
 
 
 Please feel free to use a different markup language if you do not plan to run
